@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/MiniCPM-o.png" width="300em" ></img> 
+<img src="./assets/MiniCPM-o.png" width="300em" ></img>
 
 **A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone**
 
